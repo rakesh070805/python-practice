@@ -1,0 +1,8 @@
+a=input("my mother name:")
+b=input("my father name:")
+c=input("my name:")
+d=input("my sister name:")
+print("my mother name:",a)
+print("my father name:",b)
+print("my name:",c)
+print("my sister name:",d)
